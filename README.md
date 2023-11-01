@@ -9,6 +9,7 @@
 ![JS](https://img.shields.io/badge/PHP-darkblue)
 ![JAVA](https://img.shields.io/badge/JAVA-yellow)
 ![SQL](https://img.shields.io/badge/SQL-black)
+![PYTHON](https://img.shields.io/badge/PYTHON-yellow)
 
 
 
